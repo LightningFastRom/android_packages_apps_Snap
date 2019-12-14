@@ -21,12 +21,12 @@
 
     <color name="red">#F44336</color>
     <color name="green">#4CAF50</color>
-    <color name="blue">#2196F3</color>
+    <color name="blue">#fafafa</color>
 
     <color name="shutter">@color/white</color>
     <color name="shutter_pressed">@color/grey</color>
 
-    <color name="photo">@color/blue</color>
+    <color name="photo">@color/white</color>
 
     <color name="video">@color/red</color>
     <color name="video_stop">#E57373</color>
